@@ -1,11 +1,9 @@
-# Casper
+# Enagge Idea Theme
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Ghost theme being developed for [Engage Ideas](https://engageideas.com).
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+Used [Casper](https://github.com/TryGhost/Casper/) as a starting point.
 
-## Copyright & License
-
-Copyright (c) 2013-2017 Ghost Foundation - Released under the [MIT license](LICENSE).
+More to come...
 
 "# EngageIdeasTheme" 
